@@ -1,0 +1,14 @@
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\bin\Debug\net8.0\ToDoListApp.exe
+C:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\bin\Debug\net8.0\ToDoListApp.deps.json
+C:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\bin\Debug\net8.0\ToDoListApp.runtimeconfig.json
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\bin\Debug\net8.0\ToDoListApp.dll
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\bin\Debug\net8.0\ToDoListApp.pdb
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfoInputs.cache
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.AssemblyInfo.cs
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.csproj.CoreCompileInputs.cache
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
+c:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
+C:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
+C:\Users\haile\OneDrive\Documents\Personal\Portfolio\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
